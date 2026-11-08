@@ -1,0 +1,6 @@
+   <h1>Privacy policy: morning-briefing</h1>
+   <p>This app is used only by its owner. It reads the owner's sleep, activity and heart rate data from the Google Health API with read-only access.</p>
+   <p>The data is processed once a day to create a summary sent to the owner's Telegram account. It is not sold, shared or stored beyond that daily run.</p>
+   <p>Contact: kovalchukmykola04@gmail.com</p>
+
+   
